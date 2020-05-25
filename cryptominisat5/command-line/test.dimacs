@@ -1,0 +1,7 @@
+c this is a test, this is only a test
+c
+p cnf 3 4
+1 2 3 0
+-1 2 3 0
+1 -2 3 0
+1 2 -3 0
