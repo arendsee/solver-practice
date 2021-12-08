@@ -57,6 +57,6 @@
 ;   x1 <= x2
 ;   (x1 > x3 && x0 == x1) || (x3 >= x1 && x0 == x3)   -- constraint on max
 
-; Given this set of constraints, is there at least one solution that satisfies the system? Are their any cases where 
-
-; Now if we check a bad solution, we will end up with empty types
+; Given this set of constraints, is there at least one solution that satisfies
+; the system? Are their any cases where a function may receive an input that is
+; outside the set domain?
